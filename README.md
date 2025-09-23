@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Souza! 👋
 
-<h3>Um entusiasta de tecnologia transformando curiosidade em código.</h3>
+<h3>Desenvolvedor Back-End com foco no ecossistema C# e .NET.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussouzac&label=Profile%20views&color=0e75b6&style=flat" alt="mateussouzac" /> </p>
 
@@ -43,7 +43,7 @@ Essa experiência despertou meu interesse em ir além e começar a construir min
 
 ### 🚀 Alguns Projetos que me Orgulho
 
-- 🕹️ **[Jogo Tetris em C#](https://github.com/mateussouzac/NOME-DO-SEU-REPOSITORIO-TETRIS)**: Um dos meus primeiros grandes desafios na faculdade, onde pude colocar em prática a lógica de programação de forma divertida.
+- 🕹️ **[Jogo Tetris em C#](https://github.com/mateussouzac/tetris-csharp)**: Um dos meus primeiros grandes desafios na faculdade, onde pude colocar em prática a lógica de programação de forma divertida.
 
 ---
 
