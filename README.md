@@ -43,6 +43,8 @@ Essa experiência despertou meu interesse em ir além e começar a construir min
 
 ### 🚀 Alguns Projetos que me Orgulho
 
+- 🛡️ **[Security Rote](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2025-1-p1-tiaw-1854101-ana-clara-mobilidade)**: Trabalho Interdisciplinar de Aplicações Web focado em mobilidade urbana, criando um site para traçar rotas seguras. Este projeto recebeu o **certificado de Melhor Trabalho do 1º Semestre de 2025** pela faculdade.
+
 - 🕹️ **[Jogo Tetris em C#](https://github.com/mateussouzac/tetris-csharp)**: Um dos meus primeiros grandes desafios na faculdade, onde pude colocar em prática a lógica de programação de forma divertida.
 
 ---
