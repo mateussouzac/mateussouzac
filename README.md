@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Souza! 👋
 
-<h3>Desenvolvedor Back-End com foco no ecossistema C# e .NET.</h3>
+<h3>Desenvolvedor de Software em formação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussouzac&label=Profile%20views&color=0e75b6&style=flat" alt="mateussouzac" /> </p>
 
@@ -10,9 +10,9 @@
   <em>"A tecnologia move o mundo, e eu quero fazer parte desse movimento."</em>
 </p>
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por resolver problemas. Minha jornada no mundo da TI começou na área de infraestrutura, onde tive meu primeiro contato com a automação de rotinas e o poder dos scripts. 
+<p>Sou um estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, movido pela curiosidade de aprender e construir novas soluções. Minha jornada no mundo da TI começou na área de infraestrutura, onde tive meu primeiro contato com a automação de rotinas e o poder dos scripts.</p>
 
-Essa experiência despertou meu interesse em ir além e começar a construir minhas próprias soluções. Hoje, meu foco é o desenvolvimento **Back-End**, e estou mergulhando de cabeça no ecossistema **C# e .NET** para criar aplicações robustas e eficientes. Estou sempre explorando novas ferramentas e buscando desafios que me façam aprender mais!
+<p>Essa experiência despertou meu interesse em ir além e começar a construir minhas próprias soluções. Hoje, meu foco é o <strong>desenvolvimento de software</strong>, buscando a capacidade de criar aplicações completas, desde a interface do usuário até a lógica do servidor. Estou mergulhando em tecnologias como <strong>C#, .NET, JavaScript, HTML, CSS e MySQL</strong>, sempre explorando novas ferramentas e buscando desafios que me façam aprender mais!</p>
 
 ---
 
