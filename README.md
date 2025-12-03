@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Souza! 👋
 
-<h3>Desenvolvedor de Software em formação.</h3>
+### Desenvolvedor de Software em formação.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussouzac&label=Profile%20views&color=0e75b6&style=flat" alt="mateussouzac" /> </p>
 
@@ -30,20 +30,20 @@
 
 ### 📊 Minha Atividade no GitHub
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateussouzac&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas de Mateus Souza no GitHub" />
+<div align="center">
+  <a href="https://github.com/mateussouzac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussouzac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussouzac&layout=compact&theme=dark&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Mateus Souza" />
+  <a href="https://github.com/mateussouzac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussouzac&layout=compact&theme=dark"/>
   </a>
-</p>
+</div>
 
 ---
 
 ### 🚀 Alguns Projetos que me Orgulho
 
-- 🛡️ **[Security Rote](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2025-1-p1-tiaw-1854101-ana-clara-mobilidade)**: Trabalho Interdisciplinar de Aplicações Web focado em mobilidade urbana, criando um site para traçar rotas seguras. Este projeto recebeu o **certificado de Melhor Trabalho do 1º Semestre de 2025** pela faculdade.
+- 🛡️ **[Security Route](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2025-1-p1-tiaw-1854101-ana-clara-mobilidade)**: Trabalho Interdisciplinar de Aplicações Web focado em mobilidade urbana, criando um site para traçar rotas seguras. Este projeto recebeu o **certificado de Melhor Trabalho do 1º Semestre de 2025** pela faculdade.
 
 - 🕹️ **[Jogo Tetris em C#](https://github.com/mateussouzac/tetris-csharp)**: Um dos meus primeiros grandes desafios na faculdade, onde pude colocar em prática a lógica de programação de forma divertida.
 
