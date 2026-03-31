@@ -29,11 +29,18 @@ Meu principal ecossistema de trabalho e estudo é o **C# e .NET**, focado na cri
 
 ---
 
-### 📊 Minha Atividade no GitHub
+### 📊 Minha Atividade e Constância
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussouzac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussouzac&layout=compact&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com/?user=mateussouzac&theme=dracula&hide_border=true&border_radius=10" alt="Estatísticas de Constância de Mateus Souza" />
+</div>
+
+<br>
+
+### 🏆 Minhas Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateussouzac&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="Troféus do GitHub" />
 </div>
 
 ---
