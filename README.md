@@ -1,59 +1,47 @@
 # Olá, eu sou o Mateus Souza! 👋
 
-### Desenvolvedor de Software em formação.
+**Desenvolvedor Back-end & Infraestrutura | Estudante de ADS na PUC Minas**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussouzac&label=Profile%20views&color=0e75b6&style=flat" alt="mateussouzac" /> </p>
+Sou um Desenvolvedor Júnior movido pela curiosidade de aprender, arquitetar e construir novas soluções. Tenho foco no desenvolvimento Back-end, atuando desde a modelagem do banco de dados até a construção de toda a lógica do servidor.
 
----
-
-<p align="center">
-  <em>"A tecnologia move o mundo, e eu quero fazer parte desse movimento."</em>
-</p>
-
-<p>Sou um estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, movido pela curiosidade de aprender e construir novas soluções. Minha jornada no mundo da TI começou na área de infraestrutura, onde tive meu primeiro contato com a automação de rotinas e o poder dos scripts.</p>
-
-<p>Essa experiência despertou meu interesse em ir além e começar a construir minhas próprias soluções. Hoje, meu foco é o <strong>desenvolvimento de software</strong>, buscando a capacidade de criar aplicações completas, desde a interface do usuário até a lógica do servidor. Estou mergulhando em tecnologias como <strong>C#, .NET, JavaScript, HTML, CSS e MySQL</strong>, sempre explorando novas ferramentas e buscando desafios que me façam aprender mais!</p>
+Meu principal ecossistema de trabalho e estudo é o **C# e .NET**, focado na criação de APIs robustas e código estruturado. Além disso, sou versátil e adaptável para explorar outras linguagens, como **Python** e integrações web variadas, sempre buscando entregar ferramentas e aplicações que agreguem valor real aos negócios.
 
 ---
 
-### 💻 Tecnologias que estou usando no momento:
+### 💻 Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-</p>
+<div style="display: inline-block;">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br>
+
+### 🚀 Projetos em Destaque
+
+* 📊 **[IT Hardware Governance Dashboard](https://github.com/mateussouzac/hardware-governance-dashboard-glpi):** Um painel executivo em Python (Flask) e JavaScript que consome dados de inventário via API REST, aplicando regras de negócio para identificar hardwares obsoletos e gargalos de RAM por departamento.
+* 🛡️ **[Security Route](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2025-1-p1-tiaw-1854101-ana-clara-mobilidade.git):** Aplicação Web focada em mobilidade urbana, permitindo traçar rotas seguras. **Vencedor do certificado de Melhor Trabalho Interdisciplinar do 1º Semestre de 2025 (PUC Minas).**
+* 👾 **[Tetris em C#](https://github.com/mateussouzac/tetris-csharp.git):** Desenvolvimento do clássico jogo Tetris, aplicando conceitos sólidos de lógica de programação, matrizes e POO utilizando a linguagem C#.
 
 ---
 
 ### 📊 Minha Atividade no GitHub
 
 <div align="center">
-  <a href="https://github.com/mateussouzac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussouzac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/mateussouzac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussouzac&layout=compact&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussouzac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussouzac&layout=compact&theme=dracula"/>
 </div>
 
 ---
 
-### 🚀 Alguns Projetos que me Orgulho
+### 📫 Vamos nos conectar?
+Estou sempre aberto a trocar ideias sobre tecnologia, arquitetura de software e novas oportunidades!
 
-- 🛡️ **[Security Route](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2025-1-p1-tiaw-1854101-ana-clara-mobilidade)**: Trabalho Interdisciplinar de Aplicações Web focado em mobilidade urbana, criando um site para traçar rotas seguras. Este projeto recebeu o **certificado de Melhor Trabalho do 1º Semestre de 2025** pela faculdade.
-
-- 🕹️ **[Jogo Tetris em C#](https://github.com/mateussouzac/tetris-csharp)**: Um dos meus primeiros grandes desafios na faculdade, onde pude colocar em prática a lógica de programação de forma divertida.
-
----
-
-### 📫 Vamos nos Conectar?
-
-Adoraria trocar ideias e experiências! Me encontre por aqui:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mateussouzac/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mateus_souzacampos@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
-</p>
+<div style="display: inline-block;">
+  <a href="https://linkedin.com/in/mateussouzac" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mateus_souzacampos@outlook.com"><img align="center" src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"></a>
+</div>
