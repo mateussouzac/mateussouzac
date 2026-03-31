@@ -1,5 +1,7 @@
 # Olá, eu sou o Mateus Souza! 👋
 
+![Visitas no Perfil](https://komarev.com/ghpvc/?username=mateussouzac&color=0078D4&style=flat-square&label=Profile+views)
+
 **Desenvolvedor Back-end & Infraestrutura | Estudante de ADS na PUC Minas**
 
 Sou um Desenvolvedor Júnior movido pela curiosidade de aprender, arquitetar e construir novas soluções. Tenho foco no desenvolvimento Back-end, atuando desde a modelagem do banco de dados até a construção de toda a lógica do servidor.
@@ -36,12 +38,6 @@ Meu principal ecossistema de trabalho e estudo é o **C# e .NET**, focado na cri
 </div>
 
 <br>
-
-### 🏆 Minhas Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateussouzac&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="Troféus do GitHub" />
-</div>
 
 ---
 
